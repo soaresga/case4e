@@ -111,7 +111,7 @@ ggplot()+
 # Pergunta 3
 #####
 
-# Poderiam ajudar a explicar a TFP: o nível do produto, o estoque de capital e o indice de capital humano de cada páis
+# Poderiam ajudar a explicar a TFP: o nível do produto, o estoque de capital e o indice de capital humano de cada país
 # - rgdpna Real GDP at constant 2005 national prices (in million 2005 USD)
 # - rkna Capital stock at constant 2005 national prices (in million 2005 USD).
 # - hc Index of human capital per person, based on years of schooling (Barro and Lee 2013) and returns to education (Psacharopoulos 1994).
